@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "CU_Library",
   "version": "1.0",
-  "description": "在图书馆搜索选中内容。",
+  "description": "Search selected content in CU Library.",
   "permissions": ["contextMenus"],
   "background": {
     "service_worker": "background.js"
