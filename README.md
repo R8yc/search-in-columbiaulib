@@ -1,5 +1,5 @@
 # search-in-columbiaulib
-A simple Chrome extension that enables users (with CUIT) to quickly search the Columbia University Library's articles, books, and resources.
+Allows users with CUIT to quickly go to search results pages on the Columbia University Library by selecting content and right-clicking.
 # Columbia University Library Search Chrome Extension
 B/c when writing papers, I often need to find and download literature and materials through the library's website frequently, which requires setting the library's site as a bookmark and frequently opening, copying, and pasting to searches. so I simply coded a simple Chrome extension.
 On any webpage, select what you want to search for, right-click with your mouse, and choose 'CU_Library' to directly pop up the search results in our school's library.
