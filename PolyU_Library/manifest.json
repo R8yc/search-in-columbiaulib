@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "PolyU_Library",
+  "version": "1.0",
+  "description": "在图书馆搜索选中内容。",
+  "permissions": ["contextMenus"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "16": "Polyu.png",
+    "48": "Polyu.png",
+   "128": "Polyu.png"
+  }
+}
