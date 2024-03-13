@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "CU_Library",
+  "version": "1.0",
+  "description": "在图书馆搜索选中内容。",
+  "permissions": ["contextMenus"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "16": "CU.png",
+    "48": "CU.png",
+   "128": "CU.png"
+  }
+}
