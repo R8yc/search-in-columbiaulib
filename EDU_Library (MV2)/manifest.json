@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "name": "EDU_Library",
+  "version": "1.0",
+  "description": "Search selected text in the library.",
+  "permissions": ["contextMenus", "tabs"],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "icons": {
+    "16": "EDU.png",
+    "48": "EDU.png",
+    "128": "EDU.png"
+  },
+  "browser_action": {
+    "default_icon": "EDU.png",
+    "default_popup": "popup.html",
+    "default_title": "EDU_Library"
+  }
+}
